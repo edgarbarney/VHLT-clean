@@ -1,5 +1,5 @@
-
----- How to install ----
+How to install
+======================
 
 1. Open Hammer or Batch Compiler's configuration dialog.
   Set CSG, BSP, VIS, RAD tool pathes to the 'hlcsg.exe', 'hlbsp.exe', 'hlvis.exe', 'hlrad.exe' in 'tools' folder.
@@ -17,7 +17,8 @@
     http://forums.svencoop.com/showthread.php?t=39037
 
 
----- About ----
+About
+======================
 
 Vluzacn's ZHLT v34 (2015/8/17)
 This is Vluzacn's (email: vluzacn@163.com) 34th custom build of ZHLT 3.4 (http://zhlt.info/)
