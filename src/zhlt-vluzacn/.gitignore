@@ -1,0 +1,9 @@
+# ignore uneeded files and folders:
+Debug/
+Release/
+Release_x64/
+ipch/
+*.sdf
+*.suo
+*.user
+.vs/
